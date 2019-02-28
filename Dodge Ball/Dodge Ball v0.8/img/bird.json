@@ -1,0 +1,87 @@
+{"frames": {
+
+"FLOURISH-_BoomBaloon-_BirdAssets_01.png":
+{
+	"frame": {"x":0,"y":0,"w":104,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":73},
+	"sourceSize": {"w":104,"h":73},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"FLOURISH-_BoomBaloon-_BirdAssets_02.png":
+{
+	"frame": {"x":104,"y":0,"w":103,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":73},
+	"sourceSize": {"w":103,"h":73},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"FLOURISH-_BoomBaloon-_BirdAssets_03.png":
+{
+	"frame": {"x":207,"y":0,"w":104,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":73},
+	"sourceSize": {"w":104,"h":73},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"FLOURISH-_BoomBaloon-_BirdAssets_04.png":
+{
+	"frame": {"x":311,"y":0,"w":103,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":73},
+	"sourceSize": {"w":103,"h":73},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"FLOURISH-_BoomBaloon-_BirdAssets_05.png":
+{
+	"frame": {"x":414,"y":0,"w":104,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":73},
+	"sourceSize": {"w":104,"h":73},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"FLOURISH-_BoomBaloon-_BirdAssets_06.png":
+{
+	"frame": {"x":518,"y":0,"w":103,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":73},
+	"sourceSize": {"w":103,"h":73},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"FLOURISH-_BoomBaloon-_BirdAssets_07.png":
+{
+	"frame": {"x":621,"y":0,"w":104,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":73},
+	"sourceSize": {"w":104,"h":73},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"FLOURISH-_BoomBaloon-_BirdAssets_08.png":
+{
+	"frame": {"x":725,"y":0,"w":103,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":73},
+	"sourceSize": {"w":103,"h":73},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"animations": {
+	"FLOURISH-_BoomBaloon-_BirdAssets": ["FLOURISH-_BoomBaloon-_BirdAssets_01.png","FLOURISH-_BoomBaloon-_BirdAssets_02.png","FLOURISH-_BoomBaloon-_BirdAssets_03.png","FLOURISH-_BoomBaloon-_BirdAssets_04.png","FLOURISH-_BoomBaloon-_BirdAssets_05.png","FLOURISH-_BoomBaloon-_BirdAssets_06.png","FLOURISH-_BoomBaloon-_BirdAssets_07.png","FLOURISH-_BoomBaloon-_BirdAssets_08.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bird.png",
+	"format": "RGBA8888",
+	"size": {"w":828,"h":73},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:50035a01259cdf5399fb915e6c651ffc:85e825e16baef92ff7eb4eaa4070d087:6a1677158d465170d66e062b762d8e2a$"
+}
+}
