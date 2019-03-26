@@ -33,4 +33,10 @@ v0.8
 	-player white ball ---> balloon
 	-red ball ---> birds
 	-green square reward ---> star
-3. 
+3. Add animation to the ballon when collide with birds
+
+v0.9
+1. Add moving elements (cloud, dot, light) to the background
+2. Modify the final screen
+3. Modify the count down screen
+4. Add boom sound and star dust sound to the game
